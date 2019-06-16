@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ac76d5fd4b4be4c44a499acbd139639e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bodoni* 72
+  fontNames:
+  - Bodoni* 72
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 60d11e68a8b9a45df85ae9bbd9ead519, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
